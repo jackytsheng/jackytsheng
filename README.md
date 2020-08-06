@@ -7,7 +7,7 @@
 - 🥅 2020 Goals: Write a better code that benefit customer and co-worker.
 - ⚡ Quick facts about me: 
   - 🐣 A Master graduate who is currently pursuing passion
-  - 👨🏻‍🏫 3+ years of tutor experience (Highschool Math & Physics)
+  - 👨🏻‍🏫 3+ years of tutor experience (High school Math & Physics)
   - 🧳 1 year experience in startup project
   - 🗣 Speaks 4 languages,love piano 🎹 and singing 🎤
   - ❤️ Love cat and coffee
@@ -49,16 +49,6 @@
 
 <br />
 <br />
-
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<img align="left" alt="jiajinzheng's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jiajinzheng&show_icons=true&hide_border=true" />
 
 [blog]: https://blog.jiajinzheng.com
 [website]: https://jiajinzheng.com
