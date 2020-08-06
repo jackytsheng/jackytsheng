@@ -1,4 +1,4 @@
-### Hi there, I'm Jacky - aka [jiajin zheng][website] 👋
+### Hi there, I'm Jacky - aka [Jiajin Zheng][website] 👋
 
 ## I'm a Developer, and Tutor!
 - 🔭 I’m currently working on a side hustle project!
