@@ -6,7 +6,7 @@
 - 👯 I’m looking to deliver value to the society
 - 🥅 2020 Goals: Write better code that benefits customers and co-workers.
 - ⚡ Quick facts about me: 
-  - 🐣 A Master graduate who is currently pursuing passion
+  - 🐣 A master graduate who is currently pursuing passion
   - 👨🏻‍🏫 3+ years of tutor experience (High school Math & Physics)
   - 🧳 1 year experience in startup project
   - 🗣 Speaks 4 languages,love piano 🎹 and singing 🎤
