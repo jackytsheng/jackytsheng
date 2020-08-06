@@ -1,10 +1,10 @@
 ### Hi there, I'm Jacky - aka [Jiajin Zheng][website] 👋
 
 ## I'm a Developer, and Tutor!
-- 🔭 I’m currently working on a side hustle project!
+- 🔭 I’m currently working on side hustle projects!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to deliver value to the society
-- 🥅 2020 Goals: Write a better code that benefit customer and co-worker.
+- 🥅 2020 Goals: Write better code that benefits customers and co-workers.
 - ⚡ Quick facts about me: 
   - 🐣 A Master graduate who is currently pursuing passion
   - 👨🏻‍🏫 3+ years of tutor experience (High school Math & Physics)
