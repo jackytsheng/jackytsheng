@@ -9,7 +9,7 @@
   - 🐣 A master graduate who is currently pursuing passion
   - 👨🏻‍🏫 3+ years of tutor experience (High school Math & Physics)
   - 🧳 1 year experience in startup project
-  - 🗣 Speaks 4 languages,love piano 🎹 and singing 🎤
+  - 🗣 Speak 4 languages,love piano 🎹 and singing 🎤
   - ❤️ Love cat and coffee
   
 ### Connect with me:
