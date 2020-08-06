@@ -1,4 +1,4 @@
-### Hi there, I'm Jacky - aka [jiajinzheng][website] 👋
+### Hi there, I'm Jacky - aka [jiajin zheng][website] 👋
 
 ## I'm a Developer, and Tutor!
 - 🔭 I’m currently working on a side hustle project!
@@ -42,7 +42,7 @@
 
 <img align="left" alt="SpringBoot" width="25px" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" />
 
-<img align="left" alt="Docker" width="55px" src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" />
+<img align="left" alt="Docker" width="40px" src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" />
 
 <img align="left" alt="AWS" width="45px" src="https://miro.medium.com/max/4000/1*b_al7C5p26tbZG4sy-CWqw.png" />
 
