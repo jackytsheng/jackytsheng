@@ -15,7 +15,6 @@
 ### Connect with me:
 [<img align="left" alt="jiajinzheng.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="blog.jiajinzheng.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/book.svg" />][blog]
-[<img align="left" alt="gaget.jiajinzheng.com" width="22px" src="https://www.svgrepo.com/show/73/game-controller.svg" />][gaget]
 
 [<img align="left" alt="jiajinzheng | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jiajinzheng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
