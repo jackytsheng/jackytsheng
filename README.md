@@ -6,11 +6,11 @@
 - 👯 I’m looking to deliver value to the society
 - 🥅 2020 Goals: Write a better code that benefit customer and co-worker.
 - ⚡ Quick facts about me: 
-  - Career Newbie (as Master graduate) who is currently pursuing passion.
-  - 3+ years of tutor experience (Highschool Math & Physics)
-  - 1 year experience in startup project
-  - Speaks 4 languages,love piano 🎹 and singing 🎤.
-  - ❤️ Love cat and coffee.
+  - 🐣 A Master graduate who is currently pursuing passion
+  - 👨🏻‍🏫 3+ years of tutor experience (Highschool Math & Physics)
+  - 🧳 1 year experience in startup project
+  - 🗣 Speaks 4 languages,love piano 🎹 and singing 🎤
+  - ❤️ Love cat and coffee
   
 ### Connect with me:
 [<img align="left" alt="jiajinzheng.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
