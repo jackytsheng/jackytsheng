@@ -13,11 +13,14 @@
   - ❤️ Love cat and coffee.
   
 ### Connect with me:
-
 [<img align="left" alt="jiajinzheng.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="blog.jiajinzheng.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/book.svg" />][blog]
+[<img align="left" alt="gaget.jiajinzheng.com" width="22px" src="https://www.svgrepo.com/show/73/game-controller.svg" />][gaget]
+
 [<img align="left" alt="jiajinzheng | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jiajinzheng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jiajinzheng | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
 
 <br />
 
@@ -57,6 +60,8 @@
 
 <img align="left" alt="jiajinzheng's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jiajinzheng&show_icons=true&hide_border=true" />
 
+[blog]: https://blog.jiajinzheng.com
 [website]: https://jiajinzheng.com
+[gaget]: https://gaget.jiajinzheng.com
 [twitter]: https://twitter.com/Jiajin_Zheng
 [linkedin]: https://www.linkedin.com/in/jacky-jiajin-zheng-76a64b164/
