@@ -27,22 +27,24 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082014/js1_0.png?itok=9fCD5b30" />
+<img align="left" alt="JavaScript" width="30px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082014/js1_0.png?itok=9fCD5b30" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4IH8qolXfzYfe-T5RDfVoDo9QbfNMUk1T2Q&usqp=CAU" />
 <img align="left" alt="MongoDB" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTIVWXqfXCp4a2GzVEJF-1mFitkeyF_NGmrA&usqp=CAU" />
-<img align="left" alt="Git" width="26px" src="https://e7.pngegg.com/pngimages/191/974/png-clipart-github-repository-git-project-commit-github-angle-logo-thumbnail.png" />
+<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/768px-Git_icon.svg.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="CLI" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="Java" width="26px" src="https://w7.pngwing.com/pngs/177/242/png-transparent-plain-old-java-object-programming-language-computer-programming-object-oriented-programming-others-text-logo-computer-programming-thumbnail.png" />
+<img align="left" alt="Java" width="26px" src="https://www.probytes.net/wp-content/uploads/2019/07/java-logo-vector-768x768.png" />
 
 <img align="left" alt="SpringBoot" width="25px" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" />
 
 <img align="left" alt="Docker" width="40px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" />
+<img align="left" alt="Python" width="30px" src="https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png" />
+<img align="left" alt="TravisCi" width="30px" src="https://a.slack-edge.com/80588/img/services/travis_512.png" />
 
 <img align="left" alt="AWS" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1280px-AWS_Simple_Icons_AWS_Cloud.svg.png" />
 
