@@ -27,7 +27,7 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082014/js1_0.png?itok=9fCD5b30" />
+<img align="left" alt="JavaScript" width="28px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082014/js1_0.png?itok=9fCD5b30" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -42,11 +42,11 @@
 
 <img align="left" alt="SpringBoot" width="25px" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" />
 
-<img align="left" alt="Docker" width="40px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" />
-<img align="left" alt="Python" width="30px" src="https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png" />
+<img align="left" alt="Docker" width="30px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" />
+<img align="left" alt="Python" width="30px" src="https://lh3.googleusercontent.com/proxy/obgs8yWUtVofRT8_bx-AjRUF2KaFUzatNExWOGS9seorCQ6OTfXQSWUKKG0IcTU6qf-f2As5gXhSZL3JFySs3pN1LEylaYbTPcK-R0vKOQKsrmI_Hw" />
 <img align="left" alt="TravisCi" width="30px" src="https://a.slack-edge.com/80588/img/services/travis_512.png" />
 
-<img align="left" alt="AWS" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1280px-AWS_Simple_Icons_AWS_Cloud.svg.png" />
+<img align="left" alt="AWS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1280px-AWS_Simple_Icons_AWS_Cloud.svg.png" />
 
 
 <br />
