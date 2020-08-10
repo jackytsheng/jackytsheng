@@ -31,9 +31,9 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://w7.pngwing.com/pngs/614/744/png-transparent-mysql-database-mariadb-dolphin-marine-mammal-animals-text.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="MySQL" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4IH8qolXfzYfe-T5RDfVoDo9QbfNMUk1T2Q&usqp=CAU" />
+<img align="left" alt="MongoDB" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTIVWXqfXCp4a2GzVEJF-1mFitkeyF_NGmrA&usqp=CAU" />
+<img align="left" alt="Git" width="26px" src="https://e7.pngegg.com/pngimages/191/974/png-clipart-github-repository-git-project-commit-github-angle-logo-thumbnail.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="CLI" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
