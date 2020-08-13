@@ -43,7 +43,7 @@
 <img align="left" alt="SpringBoot" width="25px" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" />
 
 <img align="left" alt="Docker" width="28px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" />
-<img align="left" alt="Python" width="26px" src="https://lh3.googleusercontent.com/proxy/obgs8yWUtVofRT8_bx-AjRUF2KaFUzatNExWOGS9seorCQ6OTfXQSWUKKG0IcTU6qf-f2As5gXhSZL3JFySs3pN1LEylaYbTPcK-R0vKOQKsrmI_Hw" />
+<img align="left" alt="Python" width="26px" src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" />
 <img align="left" alt="TravisCi" width="26px" src="https://a.slack-edge.com/80588/img/services/travis_512.png" />
 
 <img align="left" alt="AWS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1280px-AWS_Simple_Icons_AWS_Cloud.svg.png" />
