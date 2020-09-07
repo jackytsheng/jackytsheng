@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on side hustle projects!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to deliver value to the society
-- 🥅 2020 Goals: Write better code that benefits customers and co-workers.
-- 🎯 Long-term target: Cloud tech savy.
+- 🥅 2020 Goals: Write better code that benefits customers and co-workers
+- 🎯 Long-term target: Cloud tech savy
 - ⚡ Quick facts about me: 
   - 🐣 A master graduate who is currently pursuing passion
   - 👨🏻‍🏫 3+ years of tutor experience (High school Math & Physics)
