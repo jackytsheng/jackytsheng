@@ -1,7 +1,7 @@
 ### Hi there, I'm Jacky - aka [Jiajin Zheng][website] 👋
 
 ## I'm a Developer, and Tutor!
-- 🔭 I’m currently studying for AMS Certificate
+- 🔭 I’m currently improving my professional skill
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to deliver value to the society
 - 🥅 2020 Goals: Write better code that benefits customers and co-workers
