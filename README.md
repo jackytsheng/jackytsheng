@@ -39,7 +39,7 @@
 
 - 🎮 <a href="https://gadget.jiajinzheng.com" target="blank"> Some UI Gadgets </a>
 
-- 🔧 <a href="https://roundrobinpairs.jiajinzheng.com" target="blank"> Meeting Helper - Round Robin Pairs Generator </a>
+- 💬 <a href="https://roundrobinpairs.jiajinzheng.com" target="blank"> Meeting Helper - Round Robin Pairs Generator </a>
 
 - 🎡 <a href="https://chordwheel.jiajinzheng.com" target="blank"> Music Theory - Chord Wheel </a>
 
