@@ -37,11 +37,11 @@
 👇 Quick links to my projects:
 - 🔗 <a href="https://jiajinzheng.com" target="blank"> Personal Website </a>
 
-- 🎮 <a href="https://gadget.jiajinzheng.com" target="blank"> Random UI Gadgets </a>
+- 🎮 <a href="https://gadget.jiajinzheng.com" target="blank"> Some UI Gadgets </a>
 
-- 🔧 <a href="https://roundrobinpairs.jiajinzheng.com" target="blank"> Round Robin Pairs Generator </a>
+- 🔧 <a href="https://roundrobinpairs.jiajinzheng.com" target="blank"> Meeting Helper - Round Robin Pairs Generator </a>
 
-- 🎡 <a href="https://chordstool.jiajinzheng.com" target="blank"> Music Theory - Chord Wheel </a>
+- 🎡 <a href="https://chordwheel.jiajinzheng.com" target="blank"> Music Theory - Chord Wheel </a>
 
 - 📱  IOS App Store: Property Evaluator
 <br/>
